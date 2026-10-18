@@ -1,7 +1,9 @@
-# Validation — 2026-10-19
+# Three-chapter validation — 2026-10-19
 
-PASS: syntax validation; five target centers; ellipse bounds; non-target rejection; invalid and duplicate progress sanitation; completed record round trip.
-PASS (browser): Japanese boot; all five differences found by actual pointer clicks in both images; first and second hint states; zoom opened and scale changed; five-found finish card; reload retains five finds; restart clears finds; no browser console errors.
-PASS: 390×844 and 320×740 responsive browser sizes; no horizontal document overflow at small size. Mascot alpha and source dimensions verified; original and altered full-size paintings visually inspected.
+PASS: syntax and unit tests. 15 target centers and mask bounds; 3 empty-space rejections; legacy one-chapter migration; independent partial progress; legacy completed-save restoration; all-stage completion; selective chapter reset; malformed IDs cleanup; hosted cloud save/load preserves both chapters without local-storage access; pause/resume state.
 
-Physical iPhone check remains for owner. Browser emulation is not a real-device test. Official YouTube Playables SDK host certification was not repeated for this new edition. Existing SDK adapter retained with separate save key.
+PASS (actual browser UI): all15 targets clicked across three scenes, two-step hint on new chapter, chapter02 finish card and Next chapter transition, chapter03 finish, all-three completed journal, reload restores all records, restart chapter02 preserves completed chapters01/03. Partial progress retained while switching between chapters01/02. English and Japanese UI; mute toggle. Linked zoom horizontal and vertical scroll positions settled to matching22/103 in both views; zoom scale controls work. No console errors. Responsive390×844 and320×740, no horizontal document overflow at small width.
+
+PASS: new source paintings visually inspected; all10 added edited patches inspected against originals in a detail-review page. Runtime masks show only intended local difference areas. Previous bakery source paintings unchanged.
+
+Physical iPhone check remains for owner. Official YouTube Playables host certification was not repeated; adapter logic was tested locally. Each stage contains five fixed differences on replay.
