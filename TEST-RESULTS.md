@@ -1,9 +1,21 @@
-# Three-chapter validation — 2026-10-19
+# 20-chapter verification — 2026-10-19
 
-PASS: syntax and unit tests. 15 target centers and mask bounds; 3 empty-space rejections; legacy one-chapter migration; independent partial progress; legacy completed-save restoration; all-stage completion; selective chapter reset; malformed IDs cleanup; hosted cloud save/load preserves both chapters without local-storage access; pause/resume state.
+## Automated checks
 
-PASS (actual browser UI): all15 targets clicked across three scenes, two-step hint on new chapter, chapter02 finish card and Next chapter transition, chapter03 finish, all-three completed journal, reload restores all records, restart chapter02 preserves completed chapters01/03. Partial progress retained while switching between chapters01/02. English and Japanese UI; mute toggle. Linked zoom horizontal and vertical scroll positions settled to matching22/103 in both views; zoom scale controls work. No console errors. Responsive390×844 and320×740, no horizontal document overflow at small width.
+node build-chapters.cjs and node test.cjs pass. Validated 20 distinct original JPEG hashes, five unique difference IDs per chapter, all 100 target centers, ellipse bounds, bilingual clues, referenced assets, legacy save migration, independent chapter reset, 20-chapter completion, hosted chapter20 cloud save without browser local storage, and an in-memory future chapter21 append/restore. Future chapter21 was removed after the test; it is not a placeholder in the game.
 
-PASS: new source paintings visually inspected; all10 added edited patches inspected against originals in a detail-review page. Runtime masks show only intended local difference areas. Previous bakery source paintings unchanged.
+## Browser interaction checks
 
-Physical iPhone check remains for owner. Official YouTube Playables host certification was not repeated; adapter logic was tested locally. Each stage contains five fixed differences on replay.
+Local HTTP server, real rendered UI and pointer actions: all 20 chapters selected through the four guide pages, all 100 difference targets clicked, all chapters reached 5/5 with the keepsake button available. Alternated original/changed panels by chapter groups. Verified final chapter keepsake has no nonexistent next chapter. Reload restored 20/20 complete. Resetting chapter20 reduced the count to 19/20 while other chapters retained completion. Additional selective resets and final repaired bird/seaweed/sack targets were checked after visual edits. Legacy completed/partial local records remained readable.
+
+Checked two-step clue text/location reveal, linked zoom scroll (both panels settled at identical left22/top108), English/Japanese UI, sound control, 390x844 and 320x740 layouts without horizontal overflow (body375/305 pixels respectively), desktop chapter guide, and zero captured browser error logs during local play. This is browser validation, not a physical iPhone test or audible music-quality certification.
+
+## Visual QA
+
+Reviewed all 100 original/changed detail pairs in enlarged contact sheets. Reworked ignored or ambiguous generated changes, widened masks where necessary to include complete changed objects, and feathered patch edges. Final additional changes include a missing greenhouse bird, a missing tidepool leaf branch and a rectangular-to-oval sack patch. Different chapters use different paintings, settings and compositions. Generic change categories such as shape/count/markings recur on different props; identical scenes are not reused.
+
+All rendered pairs share the original scene outside five local patch masks, so incidental changes elsewhere in the generative edit do not become extra answers. Minor painting texture differences inside those masks can remain; this is not a pixel-identical manual illustration workflow.
+
+## Release scope
+
+Only pips-hidden-town-studio-test is updated. Existing nine games and the older PIP release are untouched. Pre-expansion three-chapter ZIP retained locally. Pages deployment and public smoke test are checked separately in the release record. The Playables adapter is retained and tested with a mock SDK; official hosted QA/acceptance is still required.
