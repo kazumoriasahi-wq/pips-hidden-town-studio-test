@@ -1178,5 +1178,350 @@
         "ja": "カヌーのふちの真ちゅうの金具に注目。"
       }
     ]
+  },
+  {
+    "width": 1536,
+    "height": 1024,
+    "title": [
+      "The Potter’s Courtyard",
+      "陶芸家の中庭"
+    ],
+    "summary": [
+      "Clay, sunlight, and a patient pair of hands.",
+      "土と日差し、ていねいな手仕事。"
+    ],
+    "story": [
+      "Clay, sunlight, and a patient pair of hands. Find five little changes in this chapter.",
+      "土と日差し、ていねいな手仕事。 景色に隠れた5つの違いを見つけよう。"
+    ],
+    "ending": [
+      "Five discoveries at The Potter’s Courtyard. Pip adds this place to the detective journal.",
+      "陶芸家の中庭の5つの違いを全部発見。PIPの探偵手帳に、新しい思い出が増えたよ。"
+    ],
+    "original": "pottery-original.jpg",
+    "altered": "pottery-altered.jpg",
+    "areas": [
+      {
+        "id": "jug",
+        "x": 1355,
+        "y": 788,
+        "rx": 107,
+        "ry": 50,
+        "en": "Compare the painted fish on the jug.",
+        "ja": "水差しに描かれた魚を見比べよう。"
+      },
+      {
+        "id": "tile",
+        "x": 120,
+        "y": 225,
+        "rx": 67,
+        "ry": 68,
+        "en": "Look at the little yellow motif on the blue tile.",
+        "ja": "青いタイルの黄色い模様を見てみよう。"
+      },
+      {
+        "id": "sponge",
+        "x": 771,
+        "y": 834,
+        "rx": 24,
+        "ry": 21,
+        "en": "Count the large holes in the potter’s sponge.",
+        "ja": "陶芸用スポンジの大きな穴を数えてみよう。"
+      },
+      {
+        "id": "vase",
+        "x": 1470,
+        "y": 354,
+        "rx": 36,
+        "ry": 50,
+        "en": "Compare the little vase’s handles.",
+        "ja": "小さな花びんの持ち手を見比べよう。"
+      },
+      {
+        "id": "apron",
+        "x": 1033,
+        "y": 627,
+        "rx": 61,
+        "ry": 49,
+        "en": "Look at the shape of the potter’s apron pocket.",
+        "ja": "陶芸家のエプロンのポケットの形に注目。"
+      }
+    ]
+  },
+  {
+    "width": 1536,
+    "height": 1024,
+    "title": [
+      "The Snowbound Steam Train",
+      "雪国の蒸気機関車"
+    ],
+    "summary": [
+      "Warm little stories on a snowy railway.",
+      "雪の線路を走る、あたたかな物語。"
+    ],
+    "story": [
+      "Warm little stories on a snowy railway. Find five little changes in this chapter.",
+      "雪の線路を走る、あたたかな物語。 景色に隠れた5つの違いを見つけよう。"
+    ],
+    "ending": [
+      "Five discoveries at The Snowbound Steam Train. Pip adds this place to the detective journal.",
+      "雪国の蒸気機関車の5つの違いを全部発見。PIPの探偵手帳に、新しい思い出が増えたよ。"
+    ],
+    "original": "snowtrain-original.jpg",
+    "altered": "snowtrain-altered.jpg",
+    "areas": [
+      {
+        "id": "whistle",
+        "x": 715,
+        "y": 620,
+        "rx": 30,
+        "ry": 68,
+        "en": "Follow the cord on the conductor’s whistle.",
+        "ja": "車掌さんの笛のひもの色を見比べよう。"
+      },
+      {
+        "id": "case",
+        "x": 155,
+        "y": 844,
+        "rx": 118,
+        "ry": 108,
+        "en": "Look at the suitcase’s brass corners.",
+        "ja": "旅行かばんの真ちゅうの角に注目。"
+      },
+      {
+        "id": "mitten",
+        "x": 1351,
+        "y": 838,
+        "rx": 55,
+        "ry": 46,
+        "en": "Compare the little patch on the mitten.",
+        "ja": "手ぶくろの小さなつぎ当てを見比べよう。"
+      },
+      {
+        "id": "lamp",
+        "x": 1378,
+        "y": 112,
+        "rx": 60,
+        "ry": 64,
+        "en": "Trace the bars across the lantern’s glass.",
+        "ja": "ランタンのガラスの細い枠をたどろう。"
+      },
+      {
+        "id": "badge",
+        "x": 260,
+        "y": 249,
+        "rx": 27,
+        "ry": 27,
+        "en": "Count the stars on the engine’s round badge.",
+        "ja": "機関車の丸い飾りにある星を数えよう。"
+      }
+    ]
+  },
+  {
+    "width": 1536,
+    "height": 1024,
+    "title": [
+      "The Crystal Lantern Mine",
+      "水晶ランタンの鉱山"
+    ],
+    "summary": [
+      "Hidden light beneath the quiet mountain.",
+      "静かな山の下に眠る、小さな光。"
+    ],
+    "story": [
+      "Hidden light beneath the quiet mountain. Find five little changes in this chapter.",
+      "静かな山の下に眠る、小さな光。 景色に隠れた5つの違いを見つけよう。"
+    ],
+    "ending": [
+      "Five discoveries at The Crystal Lantern Mine. Pip adds this place to the detective journal.",
+      "水晶ランタンの鉱山の5つの違いを全部発見。PIPの探偵手帳に、新しい思い出が増えたよ。"
+    ],
+    "original": "crystalmine-original.jpg",
+    "altered": "crystalmine-altered.jpg",
+    "areas": [
+      {
+        "id": "cart",
+        "x": 337,
+        "y": 556,
+        "rx": 62,
+        "ry": 72,
+        "en": "Look at the iron plate on the mine cart.",
+        "ja": "トロッコの鉄の板の形を見比べよう。"
+      },
+      {
+        "id": "pick",
+        "x": 122,
+        "y": 637,
+        "rx": 36,
+        "ry": 33,
+        "en": "Compare the wrapping on the pickaxe handle.",
+        "ja": "つるはしの持ち手の巻きひもを見よう。"
+      },
+      {
+        "id": "geode",
+        "x": 986,
+        "y": 750,
+        "rx": 112,
+        "ry": 94,
+        "en": "Look inside the little split geode.",
+        "ja": "割れた石の内側の色を見てみよう。"
+      },
+      {
+        "id": "helmet",
+        "x": 420,
+        "y": 307,
+        "rx": 32,
+        "ry": 31,
+        "en": "Compare the miner’s hardhat.",
+        "ja": "鉱夫のヘルメットの飾りを見比べよう。"
+      },
+      {
+        "id": "chain",
+        "x": 1359,
+        "y": 307,
+        "rx": 43,
+        "ry": 79,
+        "en": "Count the crystals hanging under the lantern.",
+        "ja": "ランタンの下にさがる水晶を数えよう。"
+      }
+    ]
+  },
+  {
+    "width": 1536,
+    "height": 1024,
+    "title": [
+      "The Weaver’s Windmill",
+      "風車の織物工房"
+    ],
+    "summary": [
+      "Threads of a story turning with the wind.",
+      "風とともに紡ぐ、物語の糸。"
+    ],
+    "story": [
+      "Threads of a story turning with the wind. Find five little changes in this chapter.",
+      "風とともに紡ぐ、物語の糸。 景色に隠れた5つの違いを見つけよう。"
+    ],
+    "ending": [
+      "Five discoveries at The Weaver’s Windmill. Pip adds this place to the detective journal.",
+      "風車の織物工房の5つの違いを全部発見。PIPの探偵手帳に、新しい思い出が増えたよ。"
+    ],
+    "original": "weaver-original.jpg",
+    "altered": "weaver-altered.jpg",
+    "areas": [
+      {
+        "id": "shuttle",
+        "x": 615,
+        "y": 868,
+        "rx": 39,
+        "ry": 31,
+        "en": "Compare the openings in the weaving shuttle.",
+        "ja": "織物のひの穴を見比べよう。"
+      },
+      {
+        "id": "spool",
+        "x": 180,
+        "y": 777,
+        "rx": 42,
+        "ry": 100,
+        "en": "Look at the pale bands on the thread spool.",
+        "ja": "糸巻きの白い帯を見てみよう。"
+      },
+      {
+        "id": "tapestry",
+        "x": 1295,
+        "y": 100,
+        "rx": 74,
+        "ry": 100,
+        "en": "Compare the central motif on the hanging cloth.",
+        "ja": "つり下がった布の真ん中の模様に注目。"
+      },
+      {
+        "id": "scissors",
+        "x": 72,
+        "y": 592,
+        "rx": 60,
+        "ry": 38,
+        "en": "Look closely at the scissors’ handle loops.",
+        "ja": "はさみの持ち手の形を見比べよう。"
+      },
+      {
+        "id": "button",
+        "x": 441,
+        "y": 399,
+        "rx": 21,
+        "ry": 20,
+        "en": "Count the buttons on the weaver’s waistcoat.",
+        "ja": "織物職人のベストのボタンを数えよう。"
+      }
+    ]
+  },
+  {
+    "width": 1536,
+    "height": 1024,
+    "title": [
+      "The Treetop Juice Café",
+      "樹上のジュースカフェ"
+    ],
+    "summary": [
+      "A refreshing pause above the rainforest.",
+      "森のてっぺんで、ひとやすみ。"
+    ],
+    "story": [
+      "A refreshing pause above the rainforest. Find five little changes in this chapter.",
+      "森のてっぺんで、ひとやすみ。 景色に隠れた5つの違いを見つけよう。"
+    ],
+    "ending": [
+      "Five discoveries at The Treetop Juice Café. Pip adds this place to the detective journal.",
+      "樹上のジュースカフェの5つの違いを全部発見。PIPの探偵手帳に、新しい思い出が増えたよ。"
+    ],
+    "original": "treetop-original.jpg",
+    "altered": "treetop-altered.jpg",
+    "areas": [
+      {
+        "id": "glass",
+        "x": 610,
+        "y": 635,
+        "rx": 35,
+        "ry": 34,
+        "en": "Trace the fine lines inside the lime slice.",
+        "ja": "ライムの輪切りの細い線をたどってみよう。"
+      },
+      {
+        "id": "toucan",
+        "x": 1332,
+        "y": 55,
+        "rx": 19,
+        "ry": 18,
+        "en": "Compare the toucan’s beak markings.",
+        "ja": "オオハシのくちばしの模様を見よう。"
+      },
+      {
+        "id": "hammock",
+        "x": 84,
+        "y": 372,
+        "rx": 42,
+        "ry": 79,
+        "en": "Look at the tassels on the hammock.",
+        "ja": "ハンモックのふさ飾りを見比べよう。"
+      },
+      {
+        "id": "basket",
+        "x": 1215,
+        "y": 900,
+        "rx": 56,
+        "ry": 81,
+        "en": "Look at the leaf-shaped tag on the fruit basket.",
+        "ja": "果物かごの葉っぱ形の札の色に注目。"
+      },
+      {
+        "id": "carving",
+        "x": 774,
+        "y": 212,
+        "rx": 23,
+        "ry": 23,
+        "en": "Compare the carved notches on the railing post.",
+        "ja": "手すりの柱の彫り模様を見比べよう。"
+      }
+    ]
   }
 ]

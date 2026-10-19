@@ -19,3 +19,9 @@ All rendered pairs share the original scene outside five local patch masks, so i
 ## Release scope
 
 Only pips-hidden-town-studio-test is updated. Existing nine games and the older PIP release are untouched. Pre-expansion three-chapter ZIP retained locally. Pages deployment and public smoke test are checked separately in the release record. The Playables adapter is retained and tested with a mock SDK; official hosted QA/acceptance is still required.
+
+## Five additional chapters — 2026-10-19
+
+All25 chapters/125 target centers, bilingual clues and assets pass automated checks. Compared the existing20-chapter runtime: first17 extra chapter records are identical, as are level.js, engine.js, game.js, music.js, platform.js and style.css. Mock hosted save still works; future chapter26 append and restore pass. All25 new difference crops visually inspected using actual feathered masks; suitcase and hammock masks widened to eliminate partial remnants.
+
+Actual browser pointer clicks found all five targets in each new chapter21–25, alternating original/changed pictures; all five reached5/5 and the last keepsake omitted the next-chapter button. Reload restored new completion records. Resetting only chapter25 retained chapter21–24 completions and old records. Bilingual hints, two-step reveal and linked-zoom views checked. No captured browser errors. Responsive layout engine unchanged; physical iPhone verification of these new chapters remains for the owner.

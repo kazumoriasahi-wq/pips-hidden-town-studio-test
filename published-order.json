@@ -168,5 +168,55 @@
       "map",
       "cleat"
     ]
+  },
+  {
+    "original": "pottery-original.jpg",
+    "ids": [
+      "jug",
+      "tile",
+      "sponge",
+      "vase",
+      "apron"
+    ]
+  },
+  {
+    "original": "snowtrain-original.jpg",
+    "ids": [
+      "whistle",
+      "case",
+      "mitten",
+      "lamp",
+      "badge"
+    ]
+  },
+  {
+    "original": "crystalmine-original.jpg",
+    "ids": [
+      "cart",
+      "pick",
+      "geode",
+      "helmet",
+      "chain"
+    ]
+  },
+  {
+    "original": "weaver-original.jpg",
+    "ids": [
+      "shuttle",
+      "spool",
+      "tapestry",
+      "scissors",
+      "button"
+    ]
+  },
+  {
+    "original": "treetop-original.jpg",
+    "ids": [
+      "glass",
+      "toucan",
+      "hammock",
+      "basket",
+      "carving"
+    ]
   }
 ]
